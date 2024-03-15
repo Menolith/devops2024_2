@@ -1,5 +1,5 @@
 # .github/workflows/lint.yml
-
+#Practicing workflows with branch protection and such
 name: Lint # name of the action (displayed in the github interface)
 
 on: # event list
